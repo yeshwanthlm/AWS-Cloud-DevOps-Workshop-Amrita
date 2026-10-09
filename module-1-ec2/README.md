@@ -60,7 +60,7 @@ sudo systemctl start apache2
 sudo systemctl enable apache2
 
 # Clone the workshop repository
-git clone https://github.com/yeshwanthlm/AWS-Cloud-DevOps-Workshop-VVCE.git
+git clone https://github.com/yeshwanthlm/AWS-Cloud-DevOps-Workshop-Amrita.git
 
 # Move into the project folder
 cd AWS-Cloud-DevOps-Workshop-VVCE/module-1-ec2
